@@ -8,7 +8,9 @@
 
 
 
-
+div.ex1 {
+  overflow: scroll;
+}
 
 
 
